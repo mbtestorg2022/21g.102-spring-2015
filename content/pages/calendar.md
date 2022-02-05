@@ -8,19 +8,579 @@ uid: 2b150ff7-af8a-89b9-5d0c-42e480d5ae3a
 
 \[BWC\] = ———. _Basic Written Chinese: An Introduction to Reading and Writing for Beginners_. Tuttle Publishing, 2012. ISBN: 9780804840163.
 
-| WEEKS | MONDAYS | TUESDAYS | THURSDAYS | FRIDAYS |
-| --- | --- | --- | --- | --- |
-| 1 | No Class |  {{< br >}}{{< br >}} Session 1: {{< br >}}{{< br >}} Orientation & Warm-up {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 2: {{< br >}}{{< br >}} \[BSC\] 6–1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 3: {{< br >}}{{< br >}} \[BSC\] 6–2 {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Session 4: {{< br >}}{{< br >}} \[BWC\] 5–1 / 5–2 {{< br >}}{{< br >}}  | No Class |  {{< br >}}{{< br >}} Session 5: {{< br >}}{{< br >}} \[BSC\] 6–3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 6: {{< br >}}{{< br >}} \[BSC\] 6–4 {{< br >}}{{< br >}}  |
-| 3 | No Class |  {{< br >}}{{< br >}} Session 7: {{< br >}}{{< br >}} \[BWC\] 5–3 / 5–4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 8:  {{< br >}}{{< br >}} Review—\[BSC\] Unit 6, \[BWC\] Unit 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 9:  {{< br >}}{{< br >}} Review Test 1—\[BSC\] Unit 6, \[BWC\] Unit 5 {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Session 10: {{< br >}}{{< br >}} \[BSC\] 7–1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 11: {{< br >}}{{< br >}} \[BSC\] 7–2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 12: {{< br >}}{{< br >}} \[BWC\] 6–1 / 6–2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 13: {{< br >}}{{< br >}} \[BSC\] 7–3 {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Session 14: {{< br >}}{{< br >}} \[BSC\] 7–4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 15: {{< br >}}{{< br >}} \[BWC\] 6–3 / 6–4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 16:  {{< br >}}{{< br >}} Review—\[BSC\] Unit 7, \[BWC\] Unit 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 17:  {{< br >}}{{< br >}} Review Test 2—\[BSC\] Unit 7, \[BWC\] Unit 6 {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Session 18: {{< br >}}{{< br >}} Oral Report 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 19: {{< br >}}{{< br >}} \[BSC\] 8–1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 20: {{< br >}}{{< br >}} \[BSC\] 8–2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 21: {{< br >}}{{< br >}} \[BWC\] 7–1 / 7–2 {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Session 22: {{< br >}}{{< br >}} \[BSC\] 8–3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 23: {{< br >}}{{< br >}} \[BSC\] 8–4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 24: {{< br >}}{{< br >}} \[BWC\] 7–3 / 7–4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 25:  {{< br >}}{{< br >}} Review—\[BSC\] Unit 8, \[BWC\] Unit 7 {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Session 26:  {{< br >}}{{< br >}} Review Test 3—\[BSC\] Unit 8, \[BWC\] Unit 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 27: {{< br >}}{{< br >}} \[BSC\] 9–1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 28: {{< br >}}{{< br >}} \[BSC\] 9–2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 29: {{< br >}}{{< br >}} \[BWC\] 8–1 / 8–2 {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Session 30: {{< br >}}{{< br >}} \[BSC\] 9–3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 31: {{< br >}}{{< br >}} \[BSC\] 9–4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 32: {{< br >}}{{< br >}} \[BWC\] 8–3 / 8–4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 33: {{< br >}}{{< br >}} Reading & Writing Practice {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Session 34:  {{< br >}}{{< br >}} Review—\[BSC\] Unit 9, \[BWC\] Unit 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 35:  {{< br >}}{{< br >}} Review Test 4—\[BSC\] Unit 9, \[BWC\] Unit 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 36: {{< br >}}{{< br >}} Oral Report 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 37: {{< br >}}{{< br >}} \[BSC\] 10–1 {{< br >}}{{< br >}}  |
-| 11 | No Class | No Class |  {{< br >}}{{< br >}} Session 38: {{< br >}}{{< br >}} \[BWC\] 9–1 / 9–2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 39: {{< br >}}{{< br >}} \[BSC\] 10–2 {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} Session 40: {{< br >}}{{< br >}} \[BWC\] 9–3 / 9–4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 41: {{< br >}}{{< br >}} \[BSC\] 10–3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 42: {{< br >}}{{< br >}} \[BWC\] 10–1 / 10–2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 43: {{< br >}}{{< br >}} \[BSC\] 10–4 {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} Session 44: {{< br >}}{{< br >}} \[BWC\] 10–3 / 10–4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 45:  {{< br >}}{{< br >}} Review—\[BSC\] Unit 10, \[BWC\] Unit 9 & 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 46: {{< br >}}{{< br >}} Review Test 5—\[BSC\] Unit 10, \[BWC\] Unit 9 & 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 47: {{< br >}}{{< br >}} Oral Report 3 {{< br >}}{{< br >}}  |
-| 14 |  {{< br >}}{{< br >}} Session 48:  {{< br >}}{{< br >}} FACT—Between Traditional & Simplified {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 49: {{< br >}}{{< br >}} Final Oral Interview {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Session 50: {{< br >}}{{< br >}} Final Oral Interview {{< br >}}{{< br >}}  | Have a good summer!
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEKS
+{{< thclose >}}
+{{< thopen >}}
+MONDAYS
+{{< thclose >}}
+{{< thopen >}}
+TUESDAYS
+{{< thclose >}}
+{{< thopen >}}
+THURSDAYS
+{{< thclose >}}
+{{< thopen >}}
+FRIDAYS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+No Class
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 1:
+
+Orientation & Warm-up
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 2:
+
+\[BSC\] 6–1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 3:
+
+\[BSC\] 6–2
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 4:
+
+\[BWC\] 5–1 / 5–2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+No Class
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 5:
+
+\[BSC\] 6–3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 6:
+
+\[BSC\] 6–4
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+No Class
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 7:
+
+\[BWC\] 5–3 / 5–4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 8: 
+
+Review—\[BSC\] Unit 6, \[BWC\] Unit 5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 9: 
+
+Review Test 1—\[BSC\] Unit 6, \[BWC\] Unit 5
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 10:
+
+\[BSC\] 7–1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 11:
+
+\[BSC\] 7–2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 12:
+
+\[BWC\] 6–1 / 6–2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 13:
+
+\[BSC\] 7–3
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 14:
+
+\[BSC\] 7–4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 15:
+
+\[BWC\] 6–3 / 6–4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 16: 
+
+Review—\[BSC\] Unit 7, \[BWC\] Unit 6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 17: 
+
+Review Test 2—\[BSC\] Unit 7, \[BWC\] Unit 6
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 18:
+
+Oral Report 1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 19:
+
+\[BSC\] 8–1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 20:
+
+\[BSC\] 8–2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 21:
+
+\[BWC\] 7–1 / 7–2
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 22:
+
+\[BSC\] 8–3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 23:
+
+\[BSC\] 8–4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 24:
+
+\[BWC\] 7–3 / 7–4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 25: 
+
+Review—\[BSC\] Unit 8, \[BWC\] Unit 7
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 26: 
+
+Review Test 3—\[BSC\] Unit 8, \[BWC\] Unit 7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 27:
+
+\[BSC\] 9–1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 28:
+
+\[BSC\] 9–2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 29:
+
+\[BWC\] 8–1 / 8–2
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 30:
+
+\[BSC\] 9–3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 31:
+
+\[BSC\] 9–4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 32:
+
+\[BWC\] 8–3 / 8–4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 33:
+
+Reading & Writing Practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 34: 
+
+Review—\[BSC\] Unit 9, \[BWC\] Unit 8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 35: 
+
+Review Test 4—\[BSC\] Unit 9, \[BWC\] Unit 8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 36:
+
+Oral Report 2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 37:
+
+\[BSC\] 10–1
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+No Class
+{{< tdclose >}}
+{{< tdopen >}}
+No Class
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 38:
+
+\[BWC\] 9–1 / 9–2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 39:
+
+\[BSC\] 10–2
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 40:
+
+\[BWC\] 9–3 / 9–4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 41:
+
+\[BSC\] 10–3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 42:
+
+\[BWC\] 10–1 / 10–2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 43:
+
+\[BSC\] 10–4
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 44:
+
+\[BWC\] 10–3 / 10–4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 45: 
+
+Review—\[BSC\] Unit 10, \[BWC\] Unit 9 & 10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 46:
+
+Review Test 5—\[BSC\] Unit 10, \[BWC\] Unit 9 & 10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 47:
+
+Oral Report 3
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 48: 
+
+FACT—Between Traditional & Simplified
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 49:
+
+Final Oral Interview
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 50:
+
+Final Oral Interview
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Have a good summer!
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
